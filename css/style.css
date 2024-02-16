@@ -1,0 +1,53 @@
+body{
+    background-color: #f3ede5;
+}
+.nav-links{
+    gap: 25px;
+    font-size: 14px;
+}
+header{
+    padding: 30px 15px 5px 15px;
+}
+.buttons{
+    gap: 10px;
+}
+button{
+    background-color: #163618;
+    color: #f3ede5;
+    border-radius: 5px ;
+    padding: 10px 30px;
+}
+main{
+    margin: auto;
+    
+}
+.first-section{
+    margin-top: 100px;
+    gap: 100px;
+}
+.left-section{
+    width: 550px;
+    flex-direction: column;
+    gap: 15px;
+}
+.left-section h1{
+ font-size: 30px;
+}
+.right-section img{
+   width: 300px;
+   flex-direction: column;
+}
+.rating{
+    gap: 15px;
+}
+.rating span>*{
+    margin-right: 5px;
+}
+.second-section{
+    gap: 25px;
+      margin-top: 100px;
+      flex-direction: column;
+}
+.logos{
+    gap: 30px;
+}
